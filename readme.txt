@@ -9,4 +9,4 @@ Green means it's already been added.
 Red means it has not been added.
 
 
-Test the revert function now.
+What's the staged means?
