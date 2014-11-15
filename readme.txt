@@ -9,4 +9,4 @@ Green means it's already been added.
 Red means it has not been added.
 
 
-What's the staged means?
+What's the staged means?  Untrack --> add (Stage) --> commit (branch) 
