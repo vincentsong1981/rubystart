@@ -9,4 +9,7 @@ Green means it's already been added.
 Red means it has not been added.
 
 
-What's the staged means?  Untrack --> add (Stage) --> commit (branch) 
+What's the staged means?  Untrack --> add (Stage) --> commit (branch)
+
+Git focus on change, not the file, and the change should be follow by time.
+ 
