@@ -16,4 +16,10 @@ Git focus on change, not the file, and the change should be follow by time. Is t
 
 //2014/11/26
 Initial study
+
+//2014/11/27
+Continue yesterday
+Some bgivsancnmdfy
+
+
  
